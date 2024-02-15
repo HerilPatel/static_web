@@ -1,2 +1,3 @@
 #!/bin/bash
-yum install -y httpd
+sudo apt install nextgen-yum4
+
